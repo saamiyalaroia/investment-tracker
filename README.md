@@ -62,5 +62,27 @@ A desktop application built in Python to help you track and manage your stock in
 3. Click **Add Holding** to save it to your portfolio.
 4. Use the **Delete** or **Update** options to modify holdings.
 5. Add Sector Tags using **Assign Tag** to see the Sector Summary
+
+## 👾 Troubleshooting
+In case you get an error message saying *YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')*, you may need to upgrade yfinance 
+
+1. **Open your terminal/command prompt**
+Run this command to check your current version:
+```CopyInsert
+pip show yfinance
+```
+2. **Run this command to upgrade to version 0.2.54:**
+```CopyInsert
+pip install --upgrade yfinance==0.2.54
+```
+3. **Verify the upgrade was successful:**
+```CopyInsert
+pip show yfinance
+```
+
+
+
+
+
    
 

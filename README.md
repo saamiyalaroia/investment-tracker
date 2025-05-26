@@ -6,7 +6,7 @@ A simple Python application to help you track and manage your stock investments.
 ### 📁 `README.md`
 
 ````markdown
-# 📊 Stock Portfolio Tracker GUI
+# 📊 Stock Portfolio Tracker 
 
 A desktop application built in Python to help you track and manage your stock investments. The GUI allows users to input ticker symbols, entry prices, and share amounts, and stores this data locally in a JSON file. Live data is retrieved using `yfinance`, and portfolio visuals are generated with `matplotlib`.
 
@@ -28,7 +28,9 @@ A desktop application built in Python to help you track and manage your stock in
 
 ## 📸 GUI Preview
 
-*(Insert a screenshot of the GUI here)*
+<img width="577" alt="image" src="https://github.com/user-attachments/assets/84d982d2-8f78-4c21-8148-9a9a1261143b" />
+
+<img width="577" alt="image" src="https://github.com/user-attachments/assets/3b292d82-0a2e-4e65-beb7-d1b58fbed7db" />
 
 ## 🔧 Installation
 
@@ -61,5 +63,6 @@ A desktop application built in Python to help you track and manage your stock in
 2. Enter a stock ticker (e.g., `AAPL`), entry price, and number of shares.
 3. Click **Add Holding** to save it to your portfolio.
 4. Use the **Delete** or **Update** options to modify holdings.
+5. Add Sector Tags using **Assign Tag** to see the Sector Summary
    
 

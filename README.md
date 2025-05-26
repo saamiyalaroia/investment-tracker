@@ -24,8 +24,9 @@ A desktop application built in Python to help you track and manage your stock in
 - `json` — local data storage
 
 ## 📸 GUI Preview
-
 <img width="577" alt="image" src="https://github.com/user-attachments/assets/3b292d82-0a2e-4e65-beb7-d1b58fbed7db" />
+<img width="720" alt="Screen Shot 2025-05-26 at 11 51 37 AM" src="https://github.com/user-attachments/assets/b64cefae-f092-49dd-a2a5-09d733b36ebd" />
+<img width="464" alt="Screen Shot 2025-05-26 at 11 51 11 AM" src="https://github.com/user-attachments/assets/a0e8a2a2-5a41-4d47-ba52-b7e97e86247b" />
 <img width="577" alt="image" src="https://github.com/user-attachments/assets/84d982d2-8f78-4c21-8148-9a9a1261143b" />
 
 
